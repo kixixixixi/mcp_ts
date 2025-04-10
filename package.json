@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "dev": "fastmcp dev src/server.ts"
+    "dev": "fastmcp inspect src/server.ts"
   },
   "keywords": [],
   "author": "",
